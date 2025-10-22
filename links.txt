@@ -1,1 +1,4 @@
-home = https://doc.gold.ac.uk/usr/447
+home = https://doc.gold.ac.uk/usr/447/
+about page = https://doc.gold.ac.uk/usr/447/contact
+contact page = https://doc.gold.ac.uk/usr/447/about
+time and date page = https://doc.gold.ac.uk/usr/447/date
